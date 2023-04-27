@@ -41,3 +41,5 @@ Or just simply run `run.sh` in the Terminal.
 ## Acknowledgments
 * [SFML](https://www.sfml-dev.org/index.php), the cross-platform multimedia library used in this project.
 * [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), the cellular automaton devised by John Horton Conway.
+
+More brand new features coming soon!
