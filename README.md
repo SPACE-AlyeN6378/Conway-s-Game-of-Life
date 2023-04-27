@@ -31,10 +31,12 @@ Or just simply run `run.sh` in the Terminal.
 ## Controls
 * Left-click on a cell to set state to alive.
 * Right-click on a living cell to kill them.
-* Press the `space key` to start or stop the simulation.
+* Press the `space` key to start or stop the simulation.
 * Press the `Bksp` key to clear the grid.
 * Press the `Tab` key to randomize the grid.
-* Numbers 0-9 changes colours of the cells.
+* Numbers `0-9` changes colours of the cells.
+* `Up/Down` arrow zooms in and out.
+* `Left/Right` arrow changes sppeed.
 
 ## Acknowledgments
 * [SFML](https://www.sfml-dev.org/index.php), the cross-platform multimedia library used in this project.
