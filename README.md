@@ -30,7 +30,7 @@ Or just simply run `run.sh` in the Terminal.
 
 ## Controls
 * Left-click on a cell to set state to alive.
-* Right-click on a living cell to kill them.
+* Right-click on a living cell to kill them. (Doesn't work. Will be fixed soon!)
 * Press the `space` key to start or stop the simulation.
 * Press the `Bksp` key to clear the grid.
 * Press the `Tab` key to randomize the grid.
